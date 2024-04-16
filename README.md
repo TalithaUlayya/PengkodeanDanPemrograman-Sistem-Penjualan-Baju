@@ -4,7 +4,7 @@
 ## About
 Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 
-#Tugas pengkodean dan Pemograman
+## Tugas pengkodean dan Pemograman
 nama: Talitha Ulayya isnadiya
 Nim: 12030122140304
 Kelas: E
@@ -12,7 +12,7 @@ Kelas: E
 ### Screenshot
 ![Screenshot transaksi](transaksi.png)
 
-#ERD
+## ERD
 ![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/ERD.png)
 
 ## Installasi
