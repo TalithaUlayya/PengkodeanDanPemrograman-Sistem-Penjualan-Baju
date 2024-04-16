@@ -1,4 +1,4 @@
-# LaraPos
+# LaraPos (toko by tulS)
 [![Stable Laravel](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 
 ## About
