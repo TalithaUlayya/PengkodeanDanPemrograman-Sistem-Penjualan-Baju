@@ -6,11 +6,18 @@ Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 
 ## Tugas pengkodean dan Pemograman
 nama: Talitha Ulayya isnadiya
+
 Nim: 12030122140304
+
 Kelas: E
 
-### Screenshot
+## Sumber github
+https://github.com/rafipriatna/LaraPOS
+
+### Screenshot tampilan lama
 ![Screenshot transaksi](transaksi.png)
+
+## Screenshot tampilan baru
 
 ## ERD
 ![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/ERD.png)
