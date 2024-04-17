@@ -15,9 +15,12 @@ Kelas: E
 https://github.com/rafipriatna/LaraPOS
 
 ### Screenshot tampilan lama
+
+![
 ![Screenshot transaksi](transaksi.png)
 
 ## Screenshot tampilan baru
+![
 
 ## ERD
 ![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/ERD.png)
