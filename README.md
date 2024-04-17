@@ -11,6 +11,8 @@ Nim: 12030122140304
 
 Kelas: E
 
+perbedaan ada pada tulisan tampilan dan menambahkan foto profile dan pada akun transaksi
+
 ## Sumber github
 https://github.com/rafipriatna/LaraPOS
 
