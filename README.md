@@ -15,12 +15,12 @@ Kelas: E
 https://github.com/rafipriatna/LaraPOS
 
 ### Screenshot tampilan lama
-
-![
+![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/Screenshot%20(713).png)
 ![Screenshot transaksi](transaksi.png)
 
 ## Screenshot tampilan baru
 ![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/Screenshot%20(718).png)
+![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/Screenshot%20(720).png)
 
 ## ERD
 ![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/ERD.png)
