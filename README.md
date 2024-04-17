@@ -20,7 +20,7 @@ https://github.com/rafipriatna/LaraPOS
 ![Screenshot transaksi](transaksi.png)
 
 ## Screenshot tampilan baru
-![
+![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/Screenshot%20(718).png)
 
 ## ERD
 ![image](https://github.com/TalithaUlayya/PengkodeanDanPemrograman-Sistem-Penjualan-Baju/blob/main/ERD.png)
